@@ -7,7 +7,6 @@ import {
 } from 'firebase/firestore'
 
 /**
-
  * Reads a Vite env var, trims whitespace, and removes a single pair of
  * wrapping quotes (common mistake in .env files).
  */
